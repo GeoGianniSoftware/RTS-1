@@ -1,0 +1,16 @@
+[
+    {
+        "itemName": "Wood",
+        "itemID": 0,
+        "itemSlug": "wood",
+        "itemDesc": "A peice of lumber felled from a tree.",
+        "itemType": "Resource"
+    },
+    {
+        "itemName": "Stone",
+        "itemID": 1,
+        "itemSlug": "stone",
+        "itemDesc": "A chunk of rock excavated from within the earth.",
+        "itemType": "Resource"
+    }
+]
